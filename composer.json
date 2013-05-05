@@ -1,0 +1,6 @@
+{
+    "require": {
+        "symfony/console": "2.3.*@dev",
+        "symfony/yaml": "2.3.*@dev"
+    }
+}

@@ -1,0 +1,2 @@
+apiUrl  :  'your public active collab api url here'
+apiToken:  'your api token here, a read only one will work'
